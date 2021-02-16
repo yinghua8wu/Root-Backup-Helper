@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-base="https://raw.githubusercontent.com/mrmazakblu/Root-Backup-Helper/master"
-clone="https://github.com/mrmazakblu/Root-Backup-Helper.git"
+base="https://raw.githubusercontent.com/yinghua8wu/Root-Backup-Helper/master"
+clone="https://github.com/yinghua8wu/Root-Backup-Helper.git"
 
 set_var()
 {
